@@ -1,0 +1,1 @@
+Questões 1 e 2 da lista 6 utilizando conhecimentos de struct e TAD

@@ -1,0 +1,62 @@
+Questão 1 - Printar Alô Mundo
+
+Questão 2 - Descobrir o que o programa faz
+
+Questão 3 - Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número]
+
+Questão 4 - Escreva um programa que leia um caracter digitado pelo usuário, imprima o caracter digitado e o código ASCII correspondente a este caracter.
+
+Questão 5 - Escreva um programa que leia duas strings e as coloque na tela. Imprima também a segunda letra de cada string.
+
+Questão 6 - Explique if (num=10) ... O que irá acontecer?
+
+Questão 7 - Faça um Programa que peça dois números e imprima a soma.
+
+Questão 8 - Faça um Programa que peça as 4 notas bimestrais e mostre a média.
+
+Questão 9 - Faça um Programa que converta metros para centímetros.
+
+Questão 10 - Ler o valor do raio de um circulo e calcular a área do circulo correspondente, considere  = 3:141592.
+
+Questão 11 - Faça um Programa que leia o tamanho de um lado do quadrado e calcule sua área, em seguida mostre o dobro desta área para o usuário
+
+Questão 12 - Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
+
+Questão 13 - Faça um Programa que peça a temperatura em graus Farenheit, transforme e mostre a temperatura em graus Celsius.
+
+Questão 14 - Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
+
+Questão 15 - Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
+			a) o produto do dobro do primeiro com metade do segundo.
+			b) a soma do triplo do primeiro com o terceiro.
+			c) o terceiro elevado ao cubo.
+
+Questão 16 - Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58
+
+Questão 17 - Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
+		a) Para homens: (72.7*h) - 58
+		b) Para mulheres: (62.1*h) - 44.7 (h = altura)
+		c) Peça o peso da pessoa e informe se ela está dentro, acima ou abaixo do peso.
+
+
+Questão 18 - João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. João precisa que você faça um programa que leia a variável peso (peso de peixes) e verifique se há excesso. Se houver, gravar na variável excesso e na variável multa o valor da multa que João deverá pagar. Caso contrário mostrar tais variáveis com o conteúdo ZERO.
+
+Questão 19 - Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um programa que nos dê:
+				
+				a) salário bruto.
+				b) quanto pagou ao INSS.	
+				c) quanto pagou ao sindicato.
+				d) o salário líquido.
+				e) calcule os descontos e o salário líquido, conforme a tabela abaixo:
+				f) + Salário Bruto : R$
+					- IR (11%) : R$
+					- INSS (8%) : R$
+					- Sindicato ( 5%) : R$
+					= Salário Liquido : R$
+
+				g) Obs.: Salário Bruto - Descontos = Salário Líquido.
+
+
+
+Questão 20 - Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
+

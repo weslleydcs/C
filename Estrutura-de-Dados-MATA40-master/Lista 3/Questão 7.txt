@@ -1,0 +1,9 @@
+Questão 7:
+Resposta: 
+int main(){
+	int j = 3, *pj;
+	pj = &j;
+	printf("%d", *pj);
+	
+	return 0;
+}

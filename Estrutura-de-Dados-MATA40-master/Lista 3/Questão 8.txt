@@ -1,0 +1,13 @@
+Questão 8:
+Resposta:
+#include <stdio.h>
+
+int main(){
+	int x, *px;
+	printf("Digite o valor de x: \n");
+	scanf("%d", &x);
+	px = &x;
+	printf("%d", *px/5);
+	
+	return 0;
+}

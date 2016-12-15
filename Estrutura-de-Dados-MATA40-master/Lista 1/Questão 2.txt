@@ -1,0 +1,16 @@
+O programa abaixo faz o seguinte:
+
+1.
+2. #include <stdio.h> int main()
+3.
+4. {
+5. int x;
+6.
+7. scanf("%d",&x); printf("%d",x);
+8.
+9. return (0); }
+10.
+
+- Inicializa uma variável chamada x(na linha 5)
+- Captura o valor desta variável x com o comando scanf e imprime na tela este mesmo valor com o comando printf(na linha 7)
+- O programa é finalizado na linha 9

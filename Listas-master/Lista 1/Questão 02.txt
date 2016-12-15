@@ -1,0 +1,1 @@
+Este código lê a informação escrita e por fim imprime um inteiro.

@@ -1,0 +1,2 @@
+Questão 5 - Assumindo que o endereço de num foi atribuído a um ponteiro pnum, quais das seguintes expressões são verdadeiras?
+Resposta: d) pnum == &num

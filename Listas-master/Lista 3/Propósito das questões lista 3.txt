@@ -1,0 +1,39 @@
+Questão 1 - Digitar números e parar em um negativo informando o maior e o menor
+
+Questão 3 - Fibonacci
+
+Questão 6 - Soma dos 50 primeiros números pares
+
+Questão 5 - O usuário informa um número e o programa imprime o ímpares naturais de acordo com este número
+
+Questão 7 - Verificar se o número digitado é primo ou não
+
+Questão 8 - Uma série de opeações matemáticas
+
+Questão 9 - For, While e Do-While
+
+Questão 10 - Números de 1´s em uma string
+
+Questão 11 - Transformar caractere 0 em 1 numa string
+
+Questão 12 - Divisores do número digitado
+
+Questão 13 - Contagem regressiva
+
+Questão 14 - Somar 10 valores fornecidos pelo usuário
+
+Questão 15 - Soma de todos os números naturais abaixo de 1000 que são múltiplos de 3 e de 5
+
+Questão 16 - Fibonacci com valor de soma menor que 4milhões
+
+Questão 17 - Palíndromos
+
+Questão 18 - Imprime o menor número divisível por cada um dos números de 1 a 20 
+
+Questão 19 - Vetor, maior e menor elemento
+
+Questão 21 - Quantos valores pares o vetor[V] possui
+
+Questão 23 - Média geral dentre 15 alunos
+
+

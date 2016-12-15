@@ -1,0 +1,67 @@
+Questão 1 - Substituição de letras. Código de César
+
+Questão 2 - Palíndromo
+
+Questão 3 - Comprimento de uma string
+
+Questã0 4 - Comparar 2 strings
+
+Questão 5 - Verificação de strings(uma contida na outra)
+
+Questão 6 - Concatenar strings 
+
+Questão 7 - Imprimir string sem vogais --- Fazer por função depois
+
+Questão 8 - Ocorrências de A em B 
+
+Questão 9 - Converter string para maiúscula 
+
+Questão 10 - Retirar os espaços em branco de um vetor 
+
+Questão 11 - Colocar * no lugar dos 'A's da string --- Fazer por função depois
+
+Questão 12 - 
+
+Questão 13 - Ascii
+
+Questão 14 - Inverter uma string e dizer se ela é ou não é palíndromo
+
+Questão 15 - Concatenar sem usar strcat 
+
+Questão 16 - 
+
+Questão 17 - Mercadoria
+
+Questão 18 - Escreva um programa que recebe do usuário uma string s, um caractere c, e uma posição i e desolve o índice da primeira posição da string onde foi encontrado o caractere c. A procura deve começar a partir da posição i
+
+Questão 19 - Escreva um programa que recebe uma string s e inteiros não-negativos i e j e devolve o segmento s[i..j]. --- Fazer por função depois
+
+Questão 20 - Faça um programa que leia uma string e imprima
+
+Questão 21 - Ordem alfabética 
+
+Questão 22 - Maiúsculas em minúsculas 
+
+Questão 23 - Sexo
+
+Questão 24 - 
+
+Questão 25 - 
+
+Questão 26 - 
+
+Questão 27 - Ler um nome e imprimir as 4 primeiras letras
+
+Questão 28 - Ler nome sexo e idade e imprimir se for mulher abaixo de 25 anos 
+
+Questão 29 - Digitar uma string e imprimir na tela o comprimento dela(tamanho) 
+
+Questão 30 - Digitar um nome e só imprimir na tela se o nome começar com a letra 'a'.
+
+Questão 31 - Palavra de trás para frente
+
+Questão 32 - Receber uma palavra. Calcular quantas vogais(a, e, i, o, u) possui essa palavra. Entre com um caractere(vogal ou consoante) e substitua todas as vogais da palavra dada por esse caractere.
+
+
+
+ 

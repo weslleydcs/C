@@ -1,0 +1,2 @@
+Questão 3 - Qual a maneira correta de referenciar ch, assumindo que o endereço de ch foi atribuido ao ponteiro indica?
+Resposta: Letra a) *indica, não precisa dizer o tipo de dado porque o ponteiro já foi declarado.

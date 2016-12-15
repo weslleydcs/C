@@ -1,0 +1,2 @@
+Questão 2 - Quais das seguintes instruções são corretas para declarar um ponteiro?
+Resposta: Letra b) int *ptr;

@@ -1,0 +1,12 @@
+Questão 10 - Qual a saída do programa? 
+#include <stdio.h>
+
+int main(){
+	int i = 5, *p = &i;
+	printf("%u %d %d %d %d\n", p, *p+2, **&p, 3**p, **&p+4);
+	
+	return 0;
+}
+
+Resposta:
+2293324 7 5 15 9

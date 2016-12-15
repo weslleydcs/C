@@ -1,0 +1,52 @@
+
+questão 1 - Efetuar a leitura de um numero real e apresentar o resultado do quadrado desse número
+
+questão 2 - Ler um número e retornar o sucessor e o antecessor
+
+questão 3 - Efetuar a leitura de trés valores e apresentar como resultado final a soma dos
+quadrados dos três valores lidos
+
+questão 4 - Receber o salario de um funcionário, calcular e mostrar seu novo salário, sabendo que
+ele recebeu um aumento de 25%.
+
+questão 5 - A importância de R$ 780.000,00 será dividida entre três ganhadores de um concurso.
+Sendo que da quantia total: O primeiro ganhador recebera 46%; O segundo recebera
+32%; O terceiro recebera o restante; Calcule e imprima a quantia ganha por cada um
+dos ganhadores.
+
+questão 6 - Uma empresa contrata um encanador a R$ 30,00 por dia. Crie um programa que solicite
+o numero de dias trabalhados pelo encanador e imprima a quantia liquida que devera
+ser paga, sabendo-se que são descontados 8% para imposto de renda.
+
+questão 7 - Sejam a e b os catetos de um triangulo,faça um programa que entre com os valores de
+a e b, e ache o valor da hipotenusa e imprima o resultado.
+
+questão 8 - Faça um programa para ler um numero inteiro, positivo de três dígitos, e gerar outro
+numero formado pelos dígitos invertidos do numero lido.
+
+questão 9 - Receber o salário de um trabalhador e o valor da prestação de um empréstimo, se a
+prestação for maior que 20% do salário imprima: “Empréstimo não concedido”, caso
+contrario imprima: “Empréstimo Concedido”
+
+questão 10 - Escreva o menu de opções abaixo, leia a opção do usuário e execute a operação
+escolhida Escreva uma mensagem de erro se a opção escolhida for invalida.
+1- Soma de 2 números.
+2- Diferença entre 2 números (maior pelo menor).
+3- Produto entre 2 números.
+4- Divisão entre 2 números (o denominador não pode ser zero).
+
+questão 11 - Leia a idade e o tempo de serviço de um trabalhador e escreva se ele pode ou não
+se aposentar. As condições para aposentadora são:Ter pelo menos 65 anos, ou ter
+trabalhado pelo menos 30 anos, ou ter pelo menos 60 anos e trabalhado pelo menos 25
+anos.
+
+questão 12 - Faça um programa que leia trés números inteiros positivos e efetue o caculo de uma
+das seguintes médias de acordo com um valor numérico digitado pelo usuário: Geométrica, Ponderada, Harmônica e Aritmética
+
+questão 13 - Escreva um programa que, dado o valor da venda, imprima
+a comissão que deverá ser paga ao vendedor
+
+questão 16 - Faça um programa que receba a altura e o sexo de uma pessoa e calcule e mostre seu
+peso ideal
+
+questão 17 - Faça um algoritmo que calcule o IMC de uma pessoa e mostre sua classificação

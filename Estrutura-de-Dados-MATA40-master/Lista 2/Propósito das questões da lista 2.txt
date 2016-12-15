@@ -1,0 +1,28 @@
+Questao 1 - Nota final e conceito
+
+
+Questao 2 - Media aritmetica
+
+
+Questao 3 - Maior valor entre dois numeros
+
+
+Questao 4 - Ordem crescente entre tres numeros
+
+
+Questao 5 - Ordem decrescente entre quatro numeros
+
+
+Questao 6 - Paridade do numero(verificar se eh par ou se eh impar)
+
+
+Questao 7 - Formas de escrever tres valores
+
+
+Questao 8 - Menu de operacoes(somar, subtrair, multiplicar, dividir, encontrar raiz)
+
+
+Questao 9 - Informar a data digitada pelo usuário
+
+
+Questao 10 - Comparar duas datas

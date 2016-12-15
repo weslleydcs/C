@@ -1,0 +1,5 @@
+Questão 13:
+Resposta: 
+Letra a) x = 100
+Letra b) *pta = &a
+Letra h) ptx = &x

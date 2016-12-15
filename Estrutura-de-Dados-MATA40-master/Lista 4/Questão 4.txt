@@ -1,0 +1,1 @@
+Quando declaramos uma string(vetor de caracteres) definimos para ela o seu tamanho entre os parênteses []. Se uma string tem tamanho de caracteres = [20], então o número máximo de caracteres que ela pode ler ou armazenar são 20.

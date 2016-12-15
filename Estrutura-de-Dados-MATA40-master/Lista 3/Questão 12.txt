@@ -1,0 +1,2 @@
+Questão 12:
+Resposta: Letra e) pti = valor do endereço que ele aponta em hexadecimal e não o conteúdo deste endereço

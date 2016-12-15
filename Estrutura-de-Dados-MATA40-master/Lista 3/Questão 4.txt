@@ -1,0 +1,2 @@
+Questão 4 - Na expressão float *pont; o que é do tipo float?
+Respota: Letra c) a variável apontada por pont

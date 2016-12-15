@@ -1,0 +1,2 @@
+Questão 1  - O que é um ponteiro? E para que serve um ponteiro?
+Resposta: É um tipo específico de dado que aponta para um endereço de memória e ou para o conteúdo deste endereço.

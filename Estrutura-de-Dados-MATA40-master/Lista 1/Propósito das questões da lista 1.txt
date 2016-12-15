@@ -1,0 +1,58 @@
+Questão 1 - Alo mundo
+
+
+Questão 2 - O que o programa faz?
+
+
+Questão 3 - Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
+
+
+Questão 4 - Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
+
+
+Questão 5 - Faça um Programa que peça dois números e imprima a soma.
+
+
+Questão 6 - Faça um Programa que peça as 4 notas bimestrais e mostre a média.
+
+
+Questão 7 - Faça um Programa que converta metros para centímetros.
+
+
+Questão 8 - Ler o valor do raio de um circulo e calcular a área do circulo correspondente, considere pi = 3:141592.
+
+
+Questão 9 - Faça um Programa que leia o tamanho de um lado do quadrado e calcule sua área em seguida mostre o dobro
+desta área para o usuário.
+
+
+Questão 10 - Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule
+e mostre o total do seu salário no referido mês.
+
+
+Questão 11 - Faça um Programa que peça a temperatura em graus Farenheit, transforme e mostre a temperatura em graus Celsius. C=(5*(F 32)/9).
+
+
+Questão 12 - Faça um programa que receba três notas, calcule e mostre a média aritmética entre elas.
+
+
+Questão 13 - Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
+
+
+Questão 14 - Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este
+sofreu um aumento de 25%.
+
+
+Questão 15 - Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor
+do aumento e o novo salário.
+
+
+Questão 16 - Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, sabendo-se
+que o funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7% sobre este salário.
+
+
+Questão 17 - Faça um programa que receba o salário base de um funcionário, calcule e mostre o seu salário a receber,sabendo-se
+que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o salário base.
+
+
+Questão 18 - Faça um programa que calcule e mostre a área de um triângulo. Supondo que: Área = (base *altura) / 2.

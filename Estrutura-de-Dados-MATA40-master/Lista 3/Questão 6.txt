@@ -1,0 +1,3 @@
+Questão 6:
+Resposta: Não. Porque o scanf não tem a função de ler sendo como parâmetro um ponteiro, já que ele está apontando para o conteúdop de um endereço. Não é possível lê-lo,
+erro de sintaxe.

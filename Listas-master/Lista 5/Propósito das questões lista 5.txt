@@ -1,0 +1,45 @@
+Questão 1 - Inverte valor.
+
+Questão 2 - Maior valor na primeira variável e segundo maior valor na segunda variável.
+
+Questão 3 - Ordena 3 valores.
+
+Questão 4 - Notas simples e ponderadas.
+
+Questão 5 - Soma armazenada em A e os valores de A e B.
+
+Questão 6 - Equação do segundo grau.
+
+Questão 7 -
+
+Questão 8 - Ocorrências do maior número em um vetor.
+
+Questão 9 - 
+
+Questão 10 - Dobro de A e de B.
+
+Questão 11 - Impressão de valores do vetor por linha e o maior elemento.
+
+Questão 12 - Maior e menor valor do vetor.
+
+Questão 13 -
+
+Questão 14 - Adicionar +1 cada posição do vetor usando ponteiro.
+
+Questão 15 - Maior endereço e printar.
+
+Questão 16 - Maior endereço de duas variáveis inteiras.
+
+Questão 17 - Imprimir o endereço de todos o valores do vetor float.
+
+Questão 18 - Matriz e endereço.
+
+Questão 19 - Dobro do valor lido com ponteiro.
+
+Questão 20 - Endereço dos valores pares do vetor.
+
+Questão 21 -
+
+Questão 22 - Substituir todos os valores do vetor usando ponteiro.
+
+Questão 23 - Imprimir valores do vetor usando ponteiro.

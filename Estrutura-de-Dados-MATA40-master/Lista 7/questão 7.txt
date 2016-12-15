@@ -1,0 +1,2 @@
+Resposta:
+Não pois, pois ela libera o primeiro nodo antes de retornar a variável do tipo dado, então ela retorna somento o tipo da variável, mas não o valor nele armazenado anteriormente.
