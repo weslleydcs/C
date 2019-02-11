@@ -1,0 +1,24 @@
+Aluno:
+	Weslley Daltro de Castro Silva
+
+Arquivos:
+	main.c -> Função principal
+	hashencadeado.c -> Função de hashing encadeado
+	hashduplo.c -> Função de hashing duplo
+
+	hashencadeado.h -> biblioteca com as funções de hashing encadeado
+	hashduplo.h -> biblioteca com as funções de hashing duplo
+
+
+Observação: 
+	Em cada função existe uma breve explicação comentada para evitar 
+	poluir muito o código e facilitar o entendimento do mesmo após a
+	explicação
+
+
+Para compilar:
+	gcc -c hashduplo.c
+	gcc -c hashencadeado.c
+	gcc main.c hashduplo.o hashencadeado.o -o main
+	./main
+	
